@@ -63,6 +63,6 @@ Welcome to the **Charity Donation & Assistance Management System!** This project
 
 ## 🎨 Figma Wireframe and Mockup  
 Explore the wireframes and mockups for the project design on Figma:  
-👉 [Access the Figma Wireframe & Mockup](https://www.figma.com/design/6U2elgFigZtElqYJVTAyX3/donors-project?node-id=0-1&t=xWN6CBloyFYa7WVx-1](https://www.figma.com/design/6U2elgFigZtElqYJVTAyX3/donors-project?node-id=0-1&t=fxJSLxQdA61GyK5K-1)
+👉 [Access the Figma Wireframe & Mockup](https://www.figma.com/design/6U2elgFigZtElqYJVTAyX3/donors-project?node-id=0-1&t=xWN6CBloyFYa7WVx-1)
 
 ---

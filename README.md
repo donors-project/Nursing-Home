@@ -57,7 +57,7 @@ Welcome to the **Charity Donation & Assistance Management System!** This project
 ---
 
 ## Trello Link 
-[Link](https://trello.com/b/ETcHSJ5J/donors-project)
+[Trello](https://trello.com/b/ETcHSJ5J/donors-project)
 
 ---
 

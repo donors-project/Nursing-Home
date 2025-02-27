@@ -27,7 +27,6 @@ Welcome to the **Charity Donation & Assistance Management System!** This project
 - **About & Contact**  
 - **Donation Checkout Page**  
 - **User Profile Page**  
-- **Wishlist (Saved Programs)**  
 - **Support Page**  
 
 ---
